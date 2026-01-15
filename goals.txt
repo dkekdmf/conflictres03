@@ -1,1 +1,1 @@
-Add goals.txt
+Goal: Master Git branching
